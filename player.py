@@ -10,7 +10,7 @@ player.geometry('205x340')
 
 #Get Sond
 
-files = r'C:\Users\ayema\Downloads\dance_til_we_die.mp3'
+files = r'*.mp3'      # which song u want to play!?!
 
 #Action Event
 
